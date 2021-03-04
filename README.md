@@ -26,7 +26,7 @@ Each of the main topics have been divided into further sub categories.
 
 ### Data Structures 
 
-Visit the [Data Structures](https://github.com/dubesar/Java-A-Z/tree/master/Data%20Structures) repository if you would like to see examples for the following Java programs.
+Visit the [Data Structures](https://github.com/SOACodeRoom/Learning-Resources/blob/main/Data%20Structures/README.md) repository It contains tutorial videos, examples of simple programs and quizes for the following topics.
 
 - Big Integer
 - LinkedList, Circular LinkedList
