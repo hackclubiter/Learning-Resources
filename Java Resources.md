@@ -1,14 +1,14 @@
 # Java Resources
 Java is one of the most popular programming languages around, but no one seems to enjoy using it. Well, Java is actually an alright programming language, and since Java 8 came out. If you are new to programming or simply interested in learning Java, here are some resources you can use.
 
-## Best Collection of Python Tutorials
+## Best Collection of JAVA Tutorials
   - Learning Guide- [Learn Python Online](https://www.codementor.io/learn-python-online)
   - Tutorial- [Python Tutorials for Beginners and Programmers](https://www.codementor.io/python/tutorial)
 
 ## Online Help
   - Online Experts- [1:1 Python Help from Proven Experts](https://www.codementor.io/python-experts)
 
-## Platform for Python Tutorials
+## Platform for JAVA Tutorials
   - [Bucky's Room](https://buckysroom.org/videos.php?cat=98)
   - [Think Python](http://www.greenteapress.com/thinkpython/)
   - [Learn Python](http://www.learnpython.org/)
