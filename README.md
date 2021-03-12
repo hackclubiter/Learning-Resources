@@ -41,10 +41,10 @@ ___
 
 ### Object-Oriented Programming
 
-Visit the [OOP](https://github.com/dubesar/Java-A-Z/tree/master/OOPs) repository if you would like to see examples for the following Java programs.
+Visit the [OOP](https://github.com/SOACodeRoom/Learning-Resources/blob/main/) repository if you would like to see examples for the following Java programs.
 
-- [Abstraction](https://github.com/dubesar/Java-A-Z/blob/master/OOPs/abstraction.md)
-- [Encapsulation](https://github.com/dubesar/Java-A-Z/blob/master/OOPs/encapsulation.md)
-- [Inheritance](https://github.com/dubesar/Java-A-Z/blob/master/OOPs/encapsulation.md)
-- [Manipulators](https://github.com/dubesar/Java-A-Z/blob/master/OOPs/encapsulation.md)
-- [Polymorphism](https://github.com/dubesar/Java-A-Z/blob/master/OOPs/encapsulation.md)
+- [Abstraction](https://github.com)
+- [Encapsulation](https://github.com)
+- [Inheritance](https://github.com)
+- [Manipulators](https://github.com)
+- [Polymorphism](https://github.com)
