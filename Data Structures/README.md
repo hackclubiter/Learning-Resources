@@ -15,6 +15,6 @@ It contains tutorial videos, examples of simple programs and quizes for the foll
 ## Google Drive Link 
 [Click Here](https://drive.google.com/drive/folders/1EXelwGFu5PKhB1K7bW7ZEr3n_BI29weQ?usp=sharing)
 
-If above link is not workingw you can directly copy paste the below link
+If above link is not working you can directly copy paste the below link
 https://drive.google.com/drive/folders/1EXelwGFu5PKhB1K7bW7ZEr3n_BI29weQ?usp=sharing
 
